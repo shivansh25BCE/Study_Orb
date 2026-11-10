@@ -1,0 +1,12 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# PyInstaller build folders
+build/
+dist/
+*.spec
+*.exe
+
+# Database (Keeps your personal focus time private)
+zen_garden.db
